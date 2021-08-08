@@ -1,0 +1,1 @@
+due github doesn't allow empty folders, i have to leave this file here, but this folder should be empty, and there are stored all uploaded images on the webserver
